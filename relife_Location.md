@@ -49,7 +49,7 @@
 
 ---
 
-# 完整 JSON 示例（原始结构 + 完整有效）
+# 完整 JSON 示例
 
 ```json
 {
@@ -60,7 +60,7 @@
     ],
     "infoPoints": [
         {
-            "name": "Какой-то дом",
+            "name": "某个房子",
             "iconPath": "relife_LocationInfo/images/nearIcon.edds",
             "layoutPath": "relife_LocationInfo/layout/LocNotificationSafe.layout",
             "radiusToCheck": 150,
@@ -73,7 +73,7 @@
             ],
             "markersList": [
                 {
-                    "markerTitle": "Какое-то место",
+                    "markerTitle": "某个地方",
                     "iconPath": "relife_Core/images/icons/greek-temple.edds",
                     "layoutPath": "relife_LocationInfo/layout/MarkersWidget/ScreenIconWidget.layout",
                     "markerPosition": [
@@ -107,7 +107,7 @@
             ]
         },
         {
-            "name": "ВНЗ Круг",
+            "name": "某个圈",
             "iconPath": "relife_LocationInfo/images/nearIcon.edds",
             "radiusToCheck": 200,
             "position": [
